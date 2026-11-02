@@ -11742,7 +11742,59 @@
     "onderwerp": "a2db0bb77dc0",
     "proj": "1a8f20aa"
    }
+  ],
+  "2026-11-02": [
+   {
+    "id": "<091eb92a-f32e-444d-bd97-fe0e9dfd18a1@prospex.nl>",
+    "tijd": "11:07",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1471",
+    "status": "telt",
+    "onderwerp": "84d5eb98a7c2",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<18b18901-eb83-4851-9f6b-a81c0e778a18@prospex.nl>",
+    "tijd": "11:33",
+    "klant": "Prospex",
+    "profiel": "Roy",
+    "nummer": "2802",
+    "status": "telt",
+    "onderwerp": "3517c2f9108c",
+    "proj": "168ee64b"
+   },
+   {
+    "id": "<03a8de70-e181-4869-a455-303d774cd038@prospex.nl>",
+    "tijd": "11:34",
+    "klant": "Nowy Styl",
+    "profiel": "Nowy Styl",
+    "nummer": "1285",
+    "status": "telt",
+    "onderwerp": "395b0724732b",
+    "proj": "5ed79858"
+   },
+   {
+    "id": "<61581675-c7e3-4805-ae6e-56d13338db9f@prospex.nl>",
+    "tijd": "11:53",
+    "klant": "Solite",
+    "profiel": "Mark Austin",
+    "nummer": "142",
+    "status": "telt",
+    "onderwerp": "78a0237d4c7e",
+    "proj": "73132cf3"
+   },
+   {
+    "id": "<99d79f69-1e00-4324-871e-5d2457cdf4ca@prospex.nl>",
+    "tijd": "12:15",
+    "klant": "Solite",
+    "profiel": "Ryan Addis",
+    "nummer": "351",
+    "status": "telt",
+    "onderwerp": "76ce2f259963",
+    "proj": "3f20e319"
+   }
   ]
  },
- "laatsteRun": "2026-10-30T11:53"
+ "laatsteRun": "2026-11-02T14:30"
 }
