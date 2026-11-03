@@ -11794,7 +11794,29 @@
     "onderwerp": "76ce2f259963",
     "proj": "3f20e319"
    }
+  ],
+  "2026-11-03": [
+   {
+    "id": "<42360fbc-473b-465d-9bca-ceb75404383d@prospex.nl>",
+    "tijd": "10:55",
+    "klant": "Prospex",
+    "profiel": "Herbert",
+    "nummer": "2803",
+    "status": "telt",
+    "onderwerp": "817c57c0f641",
+    "proj": "ac5ba14c"
+   },
+   {
+    "id": "<0d6a4564-063a-44a0-bc53-af24e1733d52@prospex.nl>",
+    "tijd": "11:36",
+    "klant": "OnItNow",
+    "profiel": "Gianna Verreck",
+    "nummer": "466",
+    "status": "telt",
+    "onderwerp": "a084cf028a40",
+    "proj": "17aee44a"
+   }
   ]
  },
- "laatsteRun": "2026-11-02T14:30"
+ "laatsteRun": "2026-11-03T13:09"
 }
