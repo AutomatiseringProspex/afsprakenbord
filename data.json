@@ -11887,8 +11887,28 @@
     "status": "telt",
     "onderwerp": "9d1188fccd2b",
     "proj": "c5ac373f"
+   },
+   {
+    "id": "<361e4808-56c8-461b-9195-e02f2a2c9977@prospex.nl>",
+    "tijd": "13:24",
+    "klant": "Touch",
+    "profiel": "Touch Loyalty",
+    "nummer": "2148",
+    "status": "telt",
+    "onderwerp": "6f7e0ce8eb1f",
+    "proj": "af50b913"
+   },
+   {
+    "id": "<26821dbe-9f2b-4a37-b7f8-38a4d219ffa6@prospex.nl>",
+    "tijd": "14:02",
+    "klant": "Novar",
+    "profiel": "Heiko Tit",
+    "nummer": "686",
+    "status": "telt",
+    "onderwerp": "37bae6f319cc",
+    "proj": "adb8c5cf"
    }
   ]
  },
- "laatsteRun": "2026-11-04T13:25"
+ "laatsteRun": "2026-11-04T15:39"
 }
