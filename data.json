@@ -11836,7 +11836,39 @@
     "onderwerp": "7f908cdd1d07",
     "proj": "20cdc994"
    }
+  ],
+  "2026-11-04": [
+   {
+    "id": "<35ab4f0a-0c25-40db-8672-f98151fefff0@prospex.nl>",
+    "tijd": "09:58",
+    "klant": "RBBLS",
+    "profiel": "Sjoerd Verbeek",
+    "nummer": "283",
+    "status": "telt",
+    "onderwerp": "8a8cb3d9277e",
+    "proj": "6b54c09e"
+   },
+   {
+    "id": "<231fa52f-868a-4b99-837e-8889d79bda59@prospex.nl>",
+    "tijd": "10:20",
+    "klant": "Lyreco",
+    "profiel": "Hamza Bouharrou",
+    "nummer": "649",
+    "status": "telt",
+    "onderwerp": "8207dd3a7447",
+    "proj": "2a99646d"
+   },
+   {
+    "id": "<fa99b327-bb1d-4491-970d-452dcc5f8ce1@prospex.nl>",
+    "tijd": "10:29",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "54",
+    "status": "telt",
+    "onderwerp": "06251986b5ef",
+    "proj": "dd9058f6"
+   }
   ]
  },
- "laatsteRun": "2026-11-04T09:38"
+ "laatsteRun": "2026-11-04T11:43"
 }
