@@ -11869,6 +11869,16 @@
     "proj": "dd9058f6"
    },
    {
+    "id": "<3cd187f5-b778-4016-becf-96d446cc1e6d@prospex.nl>",
+    "tijd": "11:16",
+    "klant": "Lyreco",
+    "profiel": "Hamza Bouharrou",
+    "nummer": "816",
+    "status": "telt",
+    "onderwerp": "ce8433a52c0b",
+    "proj": "2a99646d"
+   },
+   {
     "id": "<61aa021e-97cc-47b8-a6d7-efd5b6e178e1@prospex.nl>",
     "tijd": "11:58",
     "klant": "Marcus",
@@ -11880,5 +11890,5 @@
    }
   ]
  },
- "laatsteRun": "2026-11-04T12:38"
+ "laatsteRun": "2026-11-04T13:25"
 }
