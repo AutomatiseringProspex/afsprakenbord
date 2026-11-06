@@ -11931,6 +11931,16 @@
   ],
   "2026-11-05": [
    {
+    "id": "<87cd2926-5ae5-48a7-bf16-02d78f13cfb6@prospex.nl>",
+    "tijd": "10:16",
+    "klant": "Prostrive",
+    "profiel": "Boris Winter",
+    "nummer": "819",
+    "status": "telt",
+    "onderwerp": "3e42815e40e6",
+    "proj": "de6d05a9"
+   },
+   {
     "id": "<2e37ec41-0687-4285-b2af-e676b91a1808@prospex.nl>",
     "tijd": "11:14",
     "klant": "Lyreco",
@@ -11939,8 +11949,18 @@
     "status": "telt",
     "onderwerp": "199d8c321c75",
     "proj": "2a99646d"
+   },
+   {
+    "id": "<7724156e-dacf-4a2a-a741-6c91e2f559e6@prospex.nl>",
+    "tijd": "15:42",
+    "klant": "Prostrive",
+    "profiel": "Sven Hurks",
+    "nummer": "1650",
+    "status": "telt",
+    "onderwerp": "2e7fa67f623e",
+    "proj": "20cdc994"
    }
   ]
  },
- "laatsteRun": "2026-11-05T15:48"
+ "laatsteRun": "2026-11-06T09:50"
 }
