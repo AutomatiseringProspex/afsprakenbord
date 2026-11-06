@@ -11927,9 +11927,39 @@
     "status": "telt",
     "onderwerp": "a19a335c145c",
     "proj": "14b76272"
+   },
+   {
+    "id": "<92ebdec5-6ec0-48b5-a4fe-d687e73d3bbb@prospex.nl>",
+    "tijd": "17:41",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1473",
+    "status": "telt",
+    "onderwerp": "1be8d8c7698a",
+    "proj": "c5ac373f"
    }
   ],
   "2026-11-05": [
+   {
+    "id": "<eac14a91-017b-4cc3-8bfd-4232f7ed7574@prospex.nl>",
+    "tijd": "09:13",
+    "klant": "Hovingh",
+    "profiel": "Wilfred",
+    "nummer": "313",
+    "status": "telt",
+    "onderwerp": "6a212c48c347",
+    "proj": "14afc805"
+   },
+   {
+    "id": "<5ccd88c9-bd9c-4e1c-a3d4-b4726e071b66@prospex.nl>",
+    "tijd": "09:38",
+    "klant": "Verdi",
+    "profiel": "Verdi Groep",
+    "nummer": "1159",
+    "status": "telt",
+    "onderwerp": "e496ddd57814",
+    "proj": "7b4f9de3"
+   },
    {
     "id": "<87cd2926-5ae5-48a7-bf16-02d78f13cfb6@prospex.nl>",
     "tijd": "10:16",
@@ -11951,6 +11981,16 @@
     "proj": "2a99646d"
    },
    {
+    "id": "<ce521806-e9e5-40c1-a33c-45e4c77acded@prospex.nl>",
+    "tijd": "12:23",
+    "klant": "Nowy Styl",
+    "profiel": "Nowy Styl",
+    "nummer": "2826",
+    "status": "telt",
+    "onderwerp": "b326345e5bb3",
+    "proj": "5ed79858"
+   },
+   {
     "id": "<7724156e-dacf-4a2a-a741-6c91e2f559e6@prospex.nl>",
     "tijd": "15:42",
     "klant": "Prostrive",
@@ -11962,5 +12002,5 @@
    }
   ]
  },
- "laatsteRun": "2026-11-06T09:50"
+ "laatsteRun": "2026-11-06T10:46"
 }
