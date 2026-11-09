@@ -12061,8 +12061,30 @@
     "status": "telt",
     "onderwerp": "57da102b7fa3",
     "proj": "c7517604"
+   },
+   {
+    "id": "<f33d4caf-d671-47ec-bdcc-ba41b800955a@prospex.nl>",
+    "tijd": "15:49",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1474",
+    "status": "telt",
+    "onderwerp": "04ac9429eb07",
+    "proj": "c5ac373f"
+   }
+  ],
+  "2026-11-09": [
+   {
+    "id": "<d3d5e730-0d49-422d-9c9a-d3c0bbe8707c@prospex.nl>",
+    "tijd": "10:06",
+    "klant": "RBBLS",
+    "profiel": "Sjoerd Verbeek",
+    "nummer": "660",
+    "status": "telt",
+    "onderwerp": "526dac6514bd",
+    "proj": "75ea2477"
    }
   ]
  },
- "laatsteRun": "2026-11-09T12:17"
+ "laatsteRun": "2026-11-09T13:15"
 }
