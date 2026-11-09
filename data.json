@@ -12013,6 +12013,36 @@
     "proj": "14b76272"
    },
    {
+    "id": "<5e035f6f-7942-48d2-a777-5112802e7668@prospex.nl>",
+    "tijd": "11:51",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1165",
+    "status": "telt",
+    "onderwerp": "d70d40b3f10d",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<2a12dfa2-dab7-4826-894b-6d064095c9fa@prospex.nl>",
+    "tijd": "11:51",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1167",
+    "status": "telt",
+    "onderwerp": "6372c16db708",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<dd07036e-00ea-4912-8d75-1706aec80865@prospex.nl>",
+    "tijd": "13:05",
+    "klant": "Nowy Styl",
+    "profiel": "Nowy Styl",
+    "nummer": "3012",
+    "status": "telt",
+    "onderwerp": "6f55024364bb",
+    "proj": "5ed79858"
+   },
+   {
     "id": "<cb009962-0855-4c8f-aba9-7bf60d065226@prospex.nl>",
     "tijd": "14:56",
     "klant": "Axelio",
@@ -12021,8 +12051,18 @@
     "status": "telt",
     "onderwerp": "21d2e8520abb",
     "proj": "20cb2b80"
+   },
+   {
+    "id": "<6324d34e-3948-4571-809d-fd4d4aca156b@prospex.nl>",
+    "tijd": "15:43",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1160",
+    "status": "telt",
+    "onderwerp": "57da102b7fa3",
+    "proj": "c7517604"
    }
   ]
  },
- "laatsteRun": "2026-11-09T11:19"
+ "laatsteRun": "2026-11-09T12:17"
 }
