@@ -12166,7 +12166,19 @@
     "onderwerp": "21b2f3523fb2",
     "proj": "af50b913"
    }
+  ],
+  "2026-11-11": [
+   {
+    "id": "<f0a5f8e9-c287-4ab0-a901-f5de46883537@prospex.nl>",
+    "tijd": "11:42",
+    "klant": "Verdi",
+    "profiel": "Verdi Groep",
+    "nummer": "1197",
+    "status": "telt",
+    "onderwerp": "a80f6a57037f",
+    "proj": "7b4f9de3"
+   }
   ]
  },
- "laatsteRun": "2026-11-11T11:42"
+ "laatsteRun": "2026-11-11T18:27"
 }
