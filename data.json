@@ -12085,6 +12085,26 @@
     "proj": "75ea2477"
    },
    {
+    "id": "<fe03b1aa-24a2-4413-871f-9cb497b787ee@prospex.nl>",
+    "tijd": "10:16",
+    "klant": "Lyreco",
+    "profiel": "Hamza Bouharrou",
+    "nummer": "635",
+    "status": "telt",
+    "onderwerp": "0a8557c5d585",
+    "proj": "2a99646d"
+   },
+   {
+    "id": "<68581bfb-976e-4fad-802f-5fae973b9d2c@prospex.nl>",
+    "tijd": "10:41",
+    "klant": "Lyreco",
+    "profiel": "Hamza Bouharrou",
+    "nummer": "886",
+    "status": "telt",
+    "onderwerp": "dcff1dbd2682",
+    "proj": "2a99646d"
+   },
+   {
     "id": "<c70c34e8-a022-4d4a-a575-738dff606b15@prospex.nl>",
     "tijd": "11:40",
     "klant": "Touch",
@@ -12093,8 +12113,60 @@
     "status": "telt",
     "onderwerp": "9c20a21c34cc",
     "proj": "d64c8b10"
+   },
+   {
+    "id": "<946fa0c4-e6b4-4749-833e-2e1e07aafbe7@prospex.nl>",
+    "tijd": "13:34",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "146",
+    "status": "telt",
+    "onderwerp": "09eefbba2ab5",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<00dc3418-e8eb-4ef5-af74-ecaa861966c9@prospex.nl>",
+    "tijd": "13:58",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "139",
+    "status": "telt",
+    "onderwerp": "da80f042d1e8",
+    "proj": "c7517604"
+   }
+  ],
+  "2026-11-10": [
+   {
+    "id": "<caeb76ae-9af7-4226-8667-fa39b68ac287@prospex.nl>",
+    "tijd": "10:11",
+    "klant": "Prostrive",
+    "profiel": "Sven Hurks",
+    "nummer": "1698",
+    "status": "telt",
+    "onderwerp": "4fbab9da2261",
+    "proj": "20cdc994"
+   },
+   {
+    "id": "<e51769fd-b60c-46c6-856a-e4cd4e88c3c1@prospex.nl>",
+    "tijd": "12:20",
+    "klant": "Prospex",
+    "profiel": "Herbert",
+    "nummer": "2806",
+    "status": "telt",
+    "onderwerp": "311f7203d666",
+    "proj": "ac5ba14c"
+   },
+   {
+    "id": "<43fefad2-1c5e-414e-8d38-ac4b48c07862@prospex.nl>",
+    "tijd": "13:49",
+    "klant": "Touch",
+    "profiel": "Touch Loyalty",
+    "nummer": "2171",
+    "status": "telt",
+    "onderwerp": "21b2f3523fb2",
+    "proj": "af50b913"
    }
   ]
  },
- "laatsteRun": "2026-11-10T10:30"
+ "laatsteRun": "2026-11-11T11:42"
 }
