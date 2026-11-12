@@ -12177,8 +12177,70 @@
     "status": "telt",
     "onderwerp": "a80f6a57037f",
     "proj": "7b4f9de3"
+   },
+   {
+    "id": "<85304641-a3ea-4646-9932-430806971424@prospex.nl>",
+    "tijd": "15:08",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1239",
+    "status": "telt",
+    "onderwerp": "9070bc0055d1",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<f30dd70d-e273-46df-a3bb-2f2a50153c38@prospex.nl>",
+    "tijd": "15:27",
+    "klant": "QRC",
+    "profiel": "Sabine van Amstel",
+    "nummer": "106",
+    "status": "telt",
+    "onderwerp": "4b0ae9d30602",
+    "proj": "675f7b1f"
+   }
+  ],
+  "2026-11-12": [
+   {
+    "id": "<9c9ca4af-a04d-4463-85d9-c466a18c6ab8@prospex.nl>",
+    "tijd": "09:37",
+    "klant": "Prospex",
+    "profiel": "Pim",
+    "nummer": "2764",
+    "status": "telt",
+    "onderwerp": "e51ae12e51f7",
+    "proj": "14b76272"
+   },
+   {
+    "id": "<07ce2edf-5e7e-4018-a84a-3e1c73d62bf9@prospex.nl>",
+    "tijd": "10:08",
+    "klant": "Prospex",
+    "profiel": "Pim",
+    "nummer": "2713",
+    "status": "telt",
+    "onderwerp": "bf902dc027b6",
+    "proj": "14b76272"
+   },
+   {
+    "id": "<c74de590-9d98-40ac-b49f-de1c0ee2bad2@prospex.nl>",
+    "tijd": "12:17",
+    "klant": "Verdi",
+    "profiel": "Verdi Groep",
+    "nummer": "1195",
+    "status": "telt",
+    "onderwerp": "0d8efbf1f6ff",
+    "proj": "7b4f9de3"
+   },
+   {
+    "id": "<87d82e32-002c-4b2a-bd73-d2914b532660@prospex.nl>",
+    "tijd": "13:20",
+    "klant": "Solite",
+    "profiel": "Ryan Addis",
+    "nummer": "461",
+    "status": "telt",
+    "onderwerp": "f680d2170eec",
+    "proj": "ee08d9cc"
    }
   ]
  },
- "laatsteRun": "2026-11-11T18:27"
+ "laatsteRun": "2026-11-12T14:54"
 }
