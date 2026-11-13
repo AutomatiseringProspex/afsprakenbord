@@ -12239,8 +12239,30 @@
     "status": "telt",
     "onderwerp": "f680d2170eec",
     "proj": "ee08d9cc"
+   },
+   {
+    "id": "<059d3e42-3cb3-4525-80d0-180b0e49d5a8@prospex.nl>",
+    "tijd": "14:54",
+    "klant": "Personeelsadviseur",
+    "profiel": "Gracita Linger",
+    "nummer": "874",
+    "status": "telt",
+    "onderwerp": "310df17c4924",
+    "proj": "0e0f05ac"
+   }
+  ],
+  "2026-11-13": [
+   {
+    "id": "<e7bbc30c-a704-4707-8e1e-cb67fd36a9dc@prospex.nl>",
+    "tijd": "09:42",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "826",
+    "status": "telt",
+    "onderwerp": "e41593371de5",
+    "proj": "76f3bb3f"
    }
   ]
  },
- "laatsteRun": "2026-11-12T14:54"
+ "laatsteRun": "2026-11-13T13:38"
 }
