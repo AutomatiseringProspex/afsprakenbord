@@ -12375,8 +12375,58 @@
     "status": "telt",
     "onderwerp": "01470808f2e4",
     "proj": "76f3bb3f"
+   },
+   {
+    "id": "<00fceb86-19c3-4c9d-b75c-5197d9aba41c@prospex.nl>",
+    "tijd": "12:52",
+    "klant": "Touch",
+    "profiel": "Touch Loyalty",
+    "nummer": "2338",
+    "status": "telt",
+    "onderwerp": "2c06470398c2",
+    "proj": "af50b913"
+   },
+   {
+    "id": "<8dc560a4-5790-4a11-b34b-d24bff31f2c6@prospex.nl>",
+    "tijd": "13:40",
+    "klant": "Touch",
+    "profiel": "Touch Loyalty",
+    "nummer": "2335",
+    "status": "telt",
+    "onderwerp": "26d800616e01",
+    "proj": "af50b913"
+   },
+   {
+    "id": "<e454c998-a0af-4754-9015-e2fc1884ec76@prospex.nl>",
+    "tijd": "14:22",
+    "klant": "Prospex",
+    "profiel": "Roy",
+    "nummer": "2301",
+    "status": "telt",
+    "onderwerp": "95cc67716e8b",
+    "proj": "168ee64b"
+   },
+   {
+    "id": "<6daa4ade-a322-45f4-baa3-8576c8a62fce@prospex.nl>",
+    "tijd": "14:24",
+    "klant": "Verdi",
+    "profiel": "Pascal Broertjes",
+    "nummer": "8",
+    "status": "telt",
+    "onderwerp": "d40c5d14ef06",
+    "proj": "c3d4e7c4"
+   },
+   {
+    "id": "<ee923865-44e7-4b7d-97b0-a3f3b3105d3f@prospex.nl>",
+    "tijd": "14:54",
+    "klant": "Lyreco",
+    "profiel": "Agenda Lyreco",
+    "nummer": "765",
+    "status": "telt",
+    "onderwerp": "2746725942f9",
+    "proj": "33fc9c77"
    }
   ]
  },
- "laatsteRun": "2026-11-17T12:49"
+ "laatsteRun": "2026-11-17T21:05"
 }
