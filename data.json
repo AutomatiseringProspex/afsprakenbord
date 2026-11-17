@@ -12292,7 +12292,91 @@
     "onderwerp": "df538acf7ec4",
     "proj": "20cb2b80"
    }
+  ],
+  "2026-11-16": [
+   {
+    "id": "<088dbf70-7aa5-4006-bd48-a06248f09756@prospex.nl>",
+    "tijd": "10:45",
+    "klant": "Prospex",
+    "profiel": "Pim",
+    "nummer": "2807",
+    "status": "telt",
+    "onderwerp": "bf5f5360a009",
+    "proj": "14b76272"
+   },
+   {
+    "id": "<443d52dc-0f44-4293-acab-69c952445209@prospex.nl>",
+    "tijd": "11:12",
+    "klant": "Prospex",
+    "profiel": "Roy",
+    "nummer": "2808",
+    "status": "telt",
+    "onderwerp": "f7b891c3a5b8",
+    "proj": "168ee64b"
+   },
+   {
+    "id": "<2328f51d-dd5f-4a66-8a5e-f03d1afa9d30@prospex.nl>",
+    "tijd": "14:51",
+    "klant": "QRC",
+    "profiel": "Sabine van Amstel",
+    "nummer": "431",
+    "status": "telt",
+    "onderwerp": "90e3de6c7fca",
+    "proj": "675f7b1f"
+   },
+   {
+    "id": "<0966f837-da6e-41ed-8e6a-0675636e7d49@prospex.nl>",
+    "tijd": "14:59",
+    "klant": "OnItNow",
+    "profiel": "Gianna Verreck",
+    "nummer": "192",
+    "status": "telt",
+    "onderwerp": "b9a7053aca44",
+    "proj": "e1b435cc"
+   },
+   {
+    "id": "<4680ec1f-b7d6-41d4-a92a-6e4974eaf65e@prospex.nl>",
+    "tijd": "15:03",
+    "klant": "Thorlux",
+    "profiel": "Bram Dieltjens",
+    "nummer": "2236",
+    "status": "telt",
+    "onderwerp": "5b66c3ff3f87",
+    "proj": "939141de"
+   },
+   {
+    "id": "<1a147024-8bc7-44fb-9bf3-23e93522d7cc@prospex.nl>",
+    "tijd": "17:21",
+    "klant": "Marcus",
+    "profiel": "Bob van der Lee",
+    "nummer": "1475",
+    "status": "telt",
+    "onderwerp": "910429666b0f",
+    "proj": "072a01b4"
+   }
+  ],
+  "2026-11-17": [
+   {
+    "id": "<1113a93c-bb61-4b82-9357-455f2881e013@prospex.nl>",
+    "tijd": "09:23",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "827",
+    "status": "telt",
+    "onderwerp": "a3092c8e1c17",
+    "proj": "76f3bb3f"
+   },
+   {
+    "id": "<b51a8615-ab85-4c0b-955f-e36f683495cd@prospex.nl>",
+    "tijd": "09:45",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "847",
+    "status": "telt",
+    "onderwerp": "01470808f2e4",
+    "proj": "76f3bb3f"
+   }
   ]
  },
- "laatsteRun": "2026-11-13T16:28"
+ "laatsteRun": "2026-11-17T12:49"
 }
