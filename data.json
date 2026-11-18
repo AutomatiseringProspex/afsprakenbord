@@ -12426,7 +12426,39 @@
     "onderwerp": "2746725942f9",
     "proj": "33fc9c77"
    }
+  ],
+  "2026-11-18": [
+   {
+    "id": "<a693255d-38ca-4209-8bf0-ed045300cde7@prospex.nl>",
+    "tijd": "09:43",
+    "klant": "Hovingh",
+    "profiel": "Wilfred de Roos",
+    "nummer": "30603",
+    "status": "telt",
+    "onderwerp": "d777dd249a7f",
+    "proj": "4d6b890d"
+   },
+   {
+    "id": "<44c76484-6f51-4331-93d3-f018ca4e9ebe@prospex.nl>",
+    "tijd": "10:33",
+    "klant": "QRC",
+    "profiel": "Sabine van Amstel",
+    "nummer": "810",
+    "status": "telt",
+    "onderwerp": "e529227b7507",
+    "proj": "675f7b1f"
+   },
+   {
+    "id": "<9153299a-e2c0-4472-a755-b00ce01ce847@prospex.nl>",
+    "tijd": "11:11",
+    "klant": "Thorlux",
+    "profiel": "Bram Dieltjens",
+    "nummer": "1531",
+    "status": "telt",
+    "onderwerp": "586d7842aa7d",
+    "proj": "939141de"
+   }
   ]
  },
- "laatsteRun": "2026-11-17T21:05"
+ "laatsteRun": "2026-11-18T19:57"
 }
