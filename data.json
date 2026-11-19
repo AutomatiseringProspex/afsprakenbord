@@ -12457,8 +12457,70 @@
     "status": "telt",
     "onderwerp": "586d7842aa7d",
     "proj": "939141de"
+   },
+   {
+    "id": "<047f8e31-f7f8-48ab-a732-3b4ff31560f7@prospex.nl>",
+    "tijd": "15:56",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1467",
+    "status": "telt",
+    "onderwerp": "f345eb73acf3",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<1dfed6de-1dcd-4702-b616-b33b510f199f@prospex.nl>",
+    "tijd": "16:15",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1469",
+    "status": "telt",
+    "onderwerp": "28fecbbcc569",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<a7709008-2852-44c5-8049-6b6b94ad6da4@prospex.nl>",
+    "tijd": "16:35",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1471",
+    "status": "telt",
+    "onderwerp": "8d6c577d0dad",
+    "proj": "c7517604"
+   }
+  ],
+  "2026-11-19": [
+   {
+    "id": "<45ee0705-26b4-42c7-a4cb-cf578710260a@prospex.nl>",
+    "tijd": "09:06",
+    "klant": "Prostrive",
+    "profiel": "Sven Hurks",
+    "nummer": "1419",
+    "status": "telt",
+    "onderwerp": "0d7b401f546c",
+    "proj": "405338d2"
+   },
+   {
+    "id": "<8d8a47a0-5f87-4d73-aded-d1613da1eb41@prospex.nl>",
+    "tijd": "09:40",
+    "klant": "Hovingh",
+    "profiel": "Wilfred",
+    "nummer": "113",
+    "status": "telt",
+    "onderwerp": "ab2329888da1",
+    "proj": "14afc805"
+   },
+   {
+    "id": "<403f5a59-ce94-4f0b-98dc-0ee5c1cca8a0@prospex.nl>",
+    "tijd": "10:55",
+    "klant": "Lyreco",
+    "profiel": "Hamza Bouharrou",
+    "nummer": "679",
+    "status": "telt",
+    "onderwerp": "2ae7d5beea82",
+    "proj": "2a99646d"
    }
   ]
  },
- "laatsteRun": "2026-11-18T19:57"
+ "laatsteRun": "2026-11-19T18:39"
 }
