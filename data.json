@@ -12519,8 +12519,70 @@
     "status": "telt",
     "onderwerp": "2ae7d5beea82",
     "proj": "2a99646d"
+   },
+   {
+    "id": "<cd35b05e-a7f0-408f-be48-06b67506e62a@prospex.nl>",
+    "tijd": "15:19",
+    "klant": "Solite",
+    "profiel": "Ryan Addis",
+    "nummer": "536",
+    "status": "telt",
+    "onderwerp": "e5275b63b3e6",
+    "proj": "ee08d9cc"
+   }
+  ],
+  "2026-11-20": [
+   {
+    "id": "<26cc4763-fb83-41d9-b919-858c5581c47c@prospex.nl>",
+    "tijd": "10:35",
+    "klant": "Prostrive",
+    "profiel": "Sven Hurks",
+    "nummer": "1703",
+    "status": "telt",
+    "onderwerp": "eccb278b3ac4",
+    "proj": "20cdc994"
+   },
+   {
+    "id": "<75930a7f-9389-48be-a5d6-9eef7a954af5@prospex.nl>",
+    "tijd": "10:44",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1476",
+    "status": "telt",
+    "onderwerp": "6a9f3030dc4c",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<89d1c30a-1fdf-4cd2-a507-2b0bed9b47a8@prospex.nl>",
+    "tijd": "10:51",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1477",
+    "status": "telt",
+    "onderwerp": "5e344a484494",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<9e7b028e-3fb8-4d81-aadd-f1e5446dcf04@prospex.nl>",
+    "tijd": "11:16",
+    "klant": "Marcus",
+    "profiel": "Bob van der Lee",
+    "nummer": "1478",
+    "status": "telt",
+    "onderwerp": "ea23ba49c3e4",
+    "proj": "072a01b4"
+   },
+   {
+    "id": "<5ea6a23a-77eb-4521-9a61-27d305cb0ef9@prospex.nl>",
+    "tijd": "11:35",
+    "klant": "Marcus",
+    "profiel": "Bob van der Lee",
+    "nummer": "1479",
+    "status": "telt",
+    "onderwerp": "7a240705406a",
+    "proj": "072a01b4"
    }
   ]
  },
- "laatsteRun": "2026-11-19T18:39"
+ "laatsteRun": "2026-11-20T14:26"
 }
