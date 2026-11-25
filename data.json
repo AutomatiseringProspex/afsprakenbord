@@ -12591,8 +12591,154 @@
     "status": "telt",
     "onderwerp": "3dfa335cd0d8",
     "proj": "c7517604"
+   },
+   {
+    "id": "<3cda9c3c-1d84-4167-b8f8-44676e69ef1a@prospex.nl>",
+    "tijd": "14:14",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1473",
+    "status": "telt",
+    "onderwerp": "05d63fe34e0c",
+    "proj": "c7517604"
+   }
+  ],
+  "2026-11-23": [
+   {
+    "id": "<ec6304bc-9be0-4a76-a071-d63e01a4017b@prospex.nl>",
+    "tijd": "13:03",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "970",
+    "status": "telt",
+    "onderwerp": "814f80ddc0aa",
+    "proj": "76f3bb3f"
+   },
+   {
+    "id": "<35bcbed8-d74b-4fb5-a37c-000948fea554@prospex.nl>",
+    "tijd": "13:55",
+    "klant": "Prospex",
+    "profiel": "Pim",
+    "nummer": "2746",
+    "status": "telt",
+    "onderwerp": "8e68bafb9fb8",
+    "proj": "14b76272"
+   }
+  ],
+  "2026-11-24": [
+   {
+    "id": "<ea377abe-38a7-4c0e-9a28-3cf030d66c78@prospex.nl>",
+    "tijd": "11:54",
+    "klant": "OnItNow",
+    "profiel": "Gianna Verreck",
+    "nummer": "216",
+    "status": "telt",
+    "onderwerp": "41fb09786d91",
+    "proj": "e1b435cc"
+   },
+   {
+    "id": "<05d78d65-4d7d-4ae2-b8e0-3b10c32578f0@prospex.nl>",
+    "tijd": "15:14",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1480",
+    "status": "telt",
+    "onderwerp": "ee9f992c2194",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<06fe7202-c122-485e-9ef2-9c722f7ef58f@prospex.nl>",
+    "tijd": "15:29",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1481",
+    "status": "telt",
+    "onderwerp": "4c632d1c9f41",
+    "proj": "c5ac373f"
+   }
+  ],
+  "2026-11-25": [
+   {
+    "id": "<e8caac74-e9ab-49b8-8317-4507d349ce8a@prospex.nl>",
+    "tijd": "09:49",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "975",
+    "status": "telt",
+    "onderwerp": "1a30cedb9c45",
+    "proj": "76f3bb3f"
+   },
+   {
+    "id": "<819b3594-6593-4a59-9ba4-86b545160e27@prospex.nl>",
+    "tijd": "10:32",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "994",
+    "status": "telt",
+    "onderwerp": "f02232c69b96",
+    "proj": "76f3bb3f"
+   },
+   {
+    "id": "<e082a642-d82d-4530-9f33-c7613391f474@prospex.nl>",
+    "tijd": "11:05",
+    "klant": "Thorlux",
+    "profiel": "Bram Dieltjens",
+    "nummer": "2558",
+    "status": "telt",
+    "onderwerp": "f99c0b8172dc",
+    "proj": "939141de"
+   },
+   {
+    "id": "<e943bc83-9a0a-48c6-ad25-8ae841e78cca@prospex.nl>",
+    "tijd": "11:47",
+    "klant": "Lyreco",
+    "profiel": "Arjan Maessen",
+    "nummer": "1011",
+    "status": "telt",
+    "onderwerp": "9067d08a996d",
+    "proj": "76f3bb3f"
+   },
+   {
+    "id": "<cab40a27-cd7f-4564-805a-e80ce166efbb@prospex.nl>",
+    "tijd": "12:24",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1482",
+    "status": "telt",
+    "onderwerp": "32ade0e7f539",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<7b11d071-aa36-4d5e-8cb4-6ce75847db44@prospex.nl>",
+    "tijd": "12:35",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1477",
+    "status": "telt",
+    "onderwerp": "845d6bd3377d",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<caea9cd4-fc4c-404c-a2cd-e950e852f7e4@prospex.nl>",
+    "tijd": "13:46",
+    "klant": "Verdi",
+    "profiel": "Nathalie de Jager",
+    "nummer": "1207",
+    "status": "telt",
+    "onderwerp": "6a1f96840b8e",
+    "proj": "8c0770c7"
+   },
+   {
+    "id": "<b8cefbfd-f30f-4318-ac15-5e4e77a56625@prospex.nl>",
+    "tijd": "14:59",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1483",
+    "status": "telt",
+    "onderwerp": "f88c8269cca3",
+    "proj": "c5ac373f"
    }
   ]
  },
- "laatsteRun": "2026-11-20T22:26"
+ "laatsteRun": "2026-11-25T23:49"
 }
