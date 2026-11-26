@@ -12737,8 +12737,60 @@
     "status": "telt",
     "onderwerp": "f88c8269cca3",
     "proj": "c5ac373f"
+   },
+   {
+    "id": "<02d5b8d5-49c2-4827-a092-6c17da89c295@prospex.nl>",
+    "tijd": "19:40",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1484",
+    "status": "telt",
+    "onderwerp": "3920b91a5c53",
+    "proj": "c5ac373f"
+   }
+  ],
+  "2026-11-26": [
+   {
+    "id": "<7ab34e7d-5446-4a6e-937a-129ba64b5c59@prospex.nl>",
+    "tijd": "10:47",
+    "klant": "Prostrive",
+    "profiel": "Sven Hurks",
+    "nummer": "1493",
+    "status": "telt",
+    "onderwerp": "455fc10233be",
+    "proj": "405338d2"
+   },
+   {
+    "id": "<2466a992-0e95-4fab-b41f-526489f94d19@prospex.nl>",
+    "tijd": "10:48",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1485",
+    "status": "telt",
+    "onderwerp": "a23376a31ea2",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<595a39eb-e4b6-4b30-b836-bcbefed4e0ca@prospex.nl>",
+    "tijd": "11:10",
+    "klant": "Marcus",
+    "profiel": "Maxim Spek",
+    "nummer": "1486",
+    "status": "telt",
+    "onderwerp": "67aa04c95eaa",
+    "proj": "c5ac373f"
+   },
+   {
+    "id": "<272f9a85-c5ef-4d87-afc5-04982973cc44@prospex.nl>",
+    "tijd": "11:12",
+    "klant": "OnItNow",
+    "profiel": "Gianna Verreck",
+    "nummer": "691",
+    "status": "telt",
+    "onderwerp": "445da370da29",
+    "proj": "1a8f20aa"
    }
   ]
  },
- "laatsteRun": "2026-11-25T23:49"
+ "laatsteRun": "2026-11-26T15:20"
 }
