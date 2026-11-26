@@ -12751,6 +12751,16 @@
   ],
   "2026-11-26": [
    {
+    "id": "<cd51d32f-8659-4791-b5d3-a06c7bf29be8@prospex.nl>",
+    "tijd": "10:44",
+    "klant": "Thorlux",
+    "profiel": "Bram Dieltjens",
+    "nummer": "1734",
+    "status": "telt",
+    "onderwerp": "f6259c7cdec1",
+    "proj": "939141de"
+   },
+   {
     "id": "<7ab34e7d-5446-4a6e-937a-129ba64b5c59@prospex.nl>",
     "tijd": "10:47",
     "klant": "Prostrive",
@@ -12789,8 +12799,38 @@
     "status": "telt",
     "onderwerp": "445da370da29",
     "proj": "1a8f20aa"
+   },
+   {
+    "id": "<bca5bd21-f788-4f41-b6bd-5357f8a160c2@prospex.nl>",
+    "tijd": "11:51",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1476",
+    "status": "telt",
+    "onderwerp": "f7170b964196",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<fea0ac5b-0cc4-4489-8118-8df074c65164@prospex.nl>",
+    "tijd": "12:54",
+    "klant": "Mfactor",
+    "profiel": "Jeff Kooijman",
+    "nummer": "1166",
+    "status": "telt",
+    "onderwerp": "61c0932f84cd",
+    "proj": "c7517604"
+   },
+   {
+    "id": "<8b5142f8-b4f5-4485-90ee-689ee55e8d06@prospex.nl>",
+    "tijd": "13:29",
+    "klant": "Vaneigens",
+    "profiel": "Thijs Nijkrake",
+    "nummer": "812",
+    "status": "telt",
+    "onderwerp": "7d8764956d0c",
+    "proj": "1bb2031f"
    }
   ]
  },
- "laatsteRun": "2026-11-26T15:20"
+ "laatsteRun": "2026-11-27T00:07"
 }
