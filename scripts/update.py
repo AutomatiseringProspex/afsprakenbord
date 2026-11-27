@@ -265,8 +265,7 @@ def build(data):
     i = page.index('<div class="prospex prospex-dark">')
     page = ('<!doctype html><html lang="nl"><head><meta charset="utf-8">'
             '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
-            '<meta name="robots" content="noindex,nofollow">'
-            '<meta http-equiv="refresh" content="300">' + page[:i] + '</head><body>' + page[i:] + '</body></html>')
+            '<meta name="robots" content="noindex,nofollow">' + page[:i] + '</head><body>' + page[i:] + '</body></html>')
     open(os.path.join(ROOT, "index.html"), "w").write(page)
 
 

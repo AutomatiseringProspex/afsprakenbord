@@ -833,4 +833,6 @@ function toonTab(t){
 if(location.hash==="#totaal")toonTab("totaal");
 if(location.hash==="#maand")toonTab("maand");
 if(location.hash==="#live")toonTab("live");
+// Verversen elke 5 min, op het tabblad waar je zit. Op Live niet (alles komt daar live binnen en het geluid zou uitgaan), behalve bij een nieuwe dag.
+(function(){const dag=new Date().toDateString();setInterval(()=>{if(!document.body.classList.contains("live-modus")||new Date().toDateString()!==dag)location.reload();},300000);})();
 </script>
